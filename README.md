@@ -21,6 +21,12 @@ Para el funcionamiento de la aplicación es necesario **reemplazar la cookie de 
 const cookieBumble = s2:98:ZX84sd627lfaszzos5DFA25asdf845asfd48rt4U
 ```
 
+Una vez reemplazada la cookie solamente corremos la aplicación mediante
+```
+node app.js
+```
+Si no ha entrado, probar de nuevo ;)
+
 ## ¿Cómo consigo mi cookie de sesión?
 
 Desde una sesión de bumble iniciada de bumble
